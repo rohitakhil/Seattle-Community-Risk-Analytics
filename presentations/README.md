@@ -1,11 +1,7 @@
-
-# Canva Presentation link - https://canva.link/ts48h8xrdfdjvcg
-
-
 # Presentations Folder
 
 This folder contains presentation materials created for communicating project findings.
-
+# Canva Presentation link - https://canva.link/ts48h8xrdfdjvcg
 ## Contents
 
 - Capstone Presentation
