@@ -114,9 +114,9 @@ presentations/ – Presentation materials
 
 images/ – Supporting visuals and graphics
 
-## Author
+### Author
 
-## Rohit Akhil Gonthina
+### Rohit Akhil Gonthina
 
 Master's Capstone Project
 
