@@ -1,6 +1,6 @@
 # Seattle-Community-Risk-Analytics
 
-Overview
+## Overview
 
 The Seattle Community Risk Analytics Platform is an end-to-end data analytics project designed to identify the key socioeconomic factors influencing poverty and economic vulnerability across Seattle neighborhoods.
 
@@ -8,11 +8,11 @@ Using Python, Tableau, RapidMiner, and statistical analysis techniques, this pro
 
 The project combines exploratory data analysis, hypothesis testing, predictive modeling, classification, clustering, and interactive dashboard development to generate actionable insights that can support data-driven decision-making.
 
-Business Problem
+## Business Problem
 
 Seattle has experienced significant economic growth over the last decade; however, the benefits of that growth have not been evenly distributed across all neighborhoods.
 
-Some communities continue to experience:
+### Some communities continue to experience:
 
 Higher poverty rates
 Lower employment opportunities
@@ -21,7 +21,7 @@ Greater economic vulnerability
 
 The objective of this project was to identify the strongest drivers of poverty and develop analytical models capable of predicting community risk.
 
-Project Objectives
+## Project Objectives
 Identify neighborhoods experiencing the highest levels of economic vulnerability.
 Analyze the relationship between employment, labor-force participation, family structure, and poverty.
 Build predictive models to estimate poverty risk.
@@ -81,7 +81,7 @@ Dashboard Development
 
 Business Recommendations
 
-Key Findings
+## Key Findings
 Workforce Participation is Critical
 
 Employment rate and labor-force participation were among the strongest predictors of neighborhood poverty levels.
@@ -114,9 +114,9 @@ presentations/ – Presentation materials
 
 images/ – Supporting visuals and graphics
 
-Author
+## Author
 
-Rohit Akhil Gonthina
+## Rohit Akhil Gonthina
 
 Master's Capstone Project
 
