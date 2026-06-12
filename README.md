@@ -33,7 +33,7 @@ The analysis found that Employment Rate, Labor Force Participation Rate (LFPR), 
 
 📄 Final Report: [View Report](reports/Seattle_Rohit_Final_Report_Report.pdf)
 
-📈 Presentation: [View Presentation](presentations/Seattle_Community_Risk_Analytics_Presentation.pdf)
+📈 Presentation: [View Presentation](presentations/README.md)
 
 
 
