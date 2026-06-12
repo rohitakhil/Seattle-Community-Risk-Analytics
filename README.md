@@ -21,6 +21,7 @@ The analysis found that Employment Rate, Labor Force Participation Rate (LFPR), 
 | KNN Accuracy | 89.3% |
 | Community Risk Clusters | 3 |
 | Tableau Dashboards | 3 |
+| Tableau Story | 1 |
 
 ## Dashboard Gallery
 
