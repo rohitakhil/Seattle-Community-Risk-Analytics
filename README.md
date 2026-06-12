@@ -25,7 +25,7 @@ The analysis found that Employment Rate, Labor Force Participation Rate (LFPR), 
 
 ## Project Resources
 
-📊 Tableau Dashboard: [View Tableau Workbook](dashboards/Capstone_rohit_bar_Dashboard.twbx)
+📊 Tableau Dashboard: [View Tableau Workbook](dashboards)
 
 💻 Python Analysis: [View Notebook](notebooks/Python_Analysis.ipynb)
 
