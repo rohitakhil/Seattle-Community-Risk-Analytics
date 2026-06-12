@@ -2,6 +2,14 @@
 
 ![Project Banner](images/project_banner.png)
 
+## Executive Summary
+
+This project analyzes socioeconomic indicators across Seattle neighborhoods to identify the primary drivers of poverty and economic vulnerability.
+
+Using Python, Tableau, RapidMiner, and statistical analysis, multiple predictive and clustering models were developed to evaluate workforce participation, employment patterns, family structure, and community risk.
+
+The analysis found that Employment Rate, Labor Force Participation Rate (LFPR), Not-In-Labor-Force (NILF) rates, and Single-Parent Households were the strongest predictors of poverty. Findings were validated through regression, classification, and clustering techniques.
+
 ## Dashboard Gallery
 
 ### Employment & Poverty Insights
