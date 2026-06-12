@@ -27,13 +27,16 @@ The analysis found that Employment Rate, Labor Force Participation Rate (LFPR), 
 
 📊 Tableau Dashboard: [View Tableau Workbook](dashboards/Seattle_Dashboard.twbx)
 
+💻 Python Analysis: [View Notebook](notebooks/Seattle_Analysis.ipynb)
+
+🤖 RapidMiner Workflows: [View Workflows](rapidminer/)
+
 📄 Final Report: [View Report](reports/Seattle_Community_Risk_Analytics_Report.pdf)
 
 📈 Presentation: [View Presentation](presentations/Seattle_Community_Risk_Analytics_Presentation.pdf)
 
-💻 Python Analysis: [View Notebook](notebooks/Seattle_Analysis.ipynb)
 
-🤖 RapidMiner Workflows: [View Workflows](rapidminer/)
+
 
 ## Dashboard Gallery
 
