@@ -2,6 +2,20 @@
 
 ![Project Banner](images/project_banner.png)
 
+## Dashboard Gallery
+
+### Employment & Poverty Insights
+
+![Dashboard 1](images/dashboard1.png)
+
+### Root Cause Analysis
+
+![Dashboard 2](images/dashboard2.png)
+
+### Community Intervention Prioritization
+
+![Dashboard 3](images/dashboard3.png)
+
 ## Overview
 
 The Seattle Community Risk Analytics Platform is an end-to-end data analytics project designed to identify the key socioeconomic factors influencing poverty and economic vulnerability across Seattle neighborhoods.
