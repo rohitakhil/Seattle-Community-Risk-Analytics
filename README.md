@@ -10,6 +10,18 @@ Using Python, Tableau, RapidMiner, and statistical analysis, multiple predictive
 
 The analysis found that Employment Rate, Labor Force Participation Rate (LFPR), Not-In-Labor-Force (NILF) rates, and Single-Parent Households were the strongest predictors of poverty. Findings were validated through regression, classification, and clustering techniques.
 
+## Project Metrics
+
+| Metric | Result |
+|----------|----------|
+| Analytics Tools Used | 4 |
+| Predictive Models Built | 5 |
+| Linear Regression R² | 0.792 |
+| Decision Tree Accuracy | 92.9% |
+| KNN Accuracy | 89.3% |
+| Community Risk Clusters | 3 |
+| Tableau Dashboards | 3 |
+
 ## Dashboard Gallery
 
 ### Employment & Poverty Insights
